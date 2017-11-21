@@ -1,0 +1,5 @@
+dotnet-fable
+Fable.Core
+Fable.Elmish.React
+Fable.Elmish.Debugger
+Fable.Import.Browser
